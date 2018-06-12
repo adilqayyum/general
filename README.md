@@ -7,3 +7,5 @@ The Amazon Scraper class has the browser instantiated. CartItemTester is the tes
 All the test results are printed in the console.
 
 The libraries required for the project are attached along.
+This is the GitKraken Addition.
+
